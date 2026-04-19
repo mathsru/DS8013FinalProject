@@ -4,6 +4,8 @@ With the main interest being to see how effectively and effeciently DQN, Rainbow
 
 -> Only requirements are Python and PyTorch
 
+-> GitHub Link To Project
+
 -> FunctionTestsGridworld.py
 The main experiment of the project is found in main.py. Where the goal is to run and test the generations of DQN and compare how much more effective each is from the last, by assessing their performance in navigating through GridWorlds. File simply imports the functions from AlgorithmsOnGridWorld and just plots the results. Displaying the rewards earned per run vs number of training done total.
 
